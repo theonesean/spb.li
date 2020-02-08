@@ -1,0 +1,81 @@
+/* TODO: dark theme                                 */
+/*       this will eventually become a framework    */
+
+:root {
+    --main-body-text: #000000;
+    --main-head-text: #000000;
+    --main-head-over: #282828;
+    --main-bg: #FEFEFE; 
+}
+
+body {
+    background-image: url(/img/chevron.png);
+    background-color: var(--main-bg);
+}
+
+.sp-head {
+    margin: 30vh 0 30vh 0;
+    font-family: mr-eaves-sans, sans-serif;
+    font-size: 10vw;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+}
+
+ul.sp-menu-top {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 0;
+    font-family: mr-eaves-sans, sans-serif; 
+    font-size: 2em;
+    font-weight: bold;
+    color: var(--main-head-text);
+}
+
+ul[class^="sp-menu"] {
+    list-style-type: none;
+}
+
+ul[class^="sp-menu"] > li > a {
+    color: var(--main-head-text);
+    text-decoration: none;
+}
+
+ul[class^="sp-menu"] > li > a:hover {
+    color: var(--main-head-over);
+    text-decoration: none;
+}
+
+ul[class^="sp-menu"] > li {
+    display: inline-block;
+}
+
+ul[class^="sp-menu"] > li::after {
+    content: " ❙ ";
+    letter-spacing: 0.25rem;
+    vertical-align: middle;
+}
+
+ul[class^="sp-menu"] > li:last-child::after {
+    content: "";
+}
+
+@media (max-width: 900px) {
+    .sp-head {
+        font-size: 15vw;
+    }
+
+    ul.sp-menu-top {
+        font-size: 1.2em;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 1rem;
+    }
+}
+
+.disabled {
+    pointer-events: none;
+    cursor: not-allowed;
+}
