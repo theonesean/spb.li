@@ -5,6 +5,8 @@
     --main-body-text: #000000;
     --main-head-text: #000000;
     --main-head-over: #282828;
+    --main-head-light: #535353;
+    --main-head-shadow: #808080;
     --main-bg: #FEFEFE; 
 }
 
@@ -29,7 +31,7 @@ ul.sp-menu-top {
     font-family: mr-eaves-sans, sans-serif; 
     font-size: 2em;
     font-weight: bold;
-    color: var(--main-head-text);
+    color: var(--main-head-light);
 }
 
 ul[class^="sp-menu"] {
@@ -37,7 +39,7 @@ ul[class^="sp-menu"] {
 }
 
 ul[class^="sp-menu"] > li > a {
-    color: var(--main-head-text);
+    color: var(--main-head-light);
     text-decoration: none;
 }
 
@@ -78,4 +80,22 @@ ul[class^="sp-menu"] > li:last-child::after {
 .disabled {
     pointer-events: none;
     cursor: not-allowed;
+}
+
+.click-interact {
+    -webkit-touch-callout: none;
+      -webkit-user-select: none;
+       -khtml-user-select: none;
+         -moz-user-select: none;
+          -ms-user-select: none;
+              user-select: none;
+}
+
+.click-interact:hover {
+    text-shadow: -2px 2px 0 var(--main-head-shadow);
+}
+
+.click-interact:active {
+    color: rgba(0, 0, 0, 0);
+    text-shadow: -2px 2px 0 var(--main-head-text);
 }
