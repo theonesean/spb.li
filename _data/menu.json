@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Projects",
+        "url": "/projects"
+    },
+    {
+        "title": "Blog",
+        "url": "blog.spb.li"
+    },
+    {
+        "title": "CV",
+        "url": "cv.spb.li"
+    },
+    {
+        "title": "Now",
+        "url": "/now"
+    },
+    {
+        "title": "Social",
+        "url": "/social"
+    },
+    {
+        "title": "Contact",
+        "url": "/contact"
+    }
+]
