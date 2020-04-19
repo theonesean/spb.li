@@ -1,0 +1,22 @@
+{
+  "name": "spb.li",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theonesean/spb.li.git"
+  },
+  "author": "Sean Bailey",
+  "license": "CC BY-SA 2.5",
+  "bugs": {
+    "url": "https://github.com/theonesean/spb.li/issues"
+  },
+  "homepage": "https://github.com/theonesean/spb.li#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
