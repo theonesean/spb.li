@@ -20,7 +20,9 @@
     "@11ty/eleventy": "^0.10.0"
   },
   "dependencies": {
+    "postcss": "^7.0.27",
     "postcss-import": "^12.0.1",
-    "tailwindcss": "^1.2.0"
+    "tailwindcss": "^1.2.0",
+    "@11ty/eleventy": "^0.10.0"
   }
 }
