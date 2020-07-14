@@ -5,22 +5,27 @@
     },
     {
         "title": "Blog",
-        "url": "blog.spb.li"
+        "url": "https://blog.spb.li",
+        "disabled": true
     },
     {
         "title": "CV",
-        "url": "cv.spb.li"
+        "url": "https://cv.spb.li",
+        "disabled": true
     },
     {
         "title": "Now",
-        "url": "/now"
+        "url": "/now",
+        "disabled": true
     },
     {
         "title": "Social",
-        "url": "/social"
+        "url": "/social",
+        "disabled": true
     },
     {
         "title": "Contact",
-        "url": "/contact"
+        "url": "/contact",
+        "disabled": true
     }
 ]

@@ -1,0 +1,5 @@
+<ul class="{{ prefix }}-menu {% if classes %}{{ classes }}{% endif %}">
+    {% for i in data %}
+        <li class="{% if i.disabled %}disabled{% endif %}"><a href="{{ i.url }}">{{ i.title }}</a></li>
+    {% endfor %}
+</ul>
