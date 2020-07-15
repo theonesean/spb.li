@@ -1,4 +1,4 @@
 ---
-layout: 'single-page'
+layout: single-page
 title: Sean Bailey
 ---

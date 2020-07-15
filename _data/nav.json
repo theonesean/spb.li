@@ -1,7 +1,7 @@
 [
     {
         "title": "Projects",
-        "url": "/projects"
+        "url": "/projects/"
     },
     {
         "title": "Blog",
@@ -15,17 +15,16 @@
     },
     {
         "title": "Now",
-        "url": "/now",
-        "disabled": true
+        "url": "/now/"
     },
     {
         "title": "Social",
-        "url": "/social",
+        "url": "/social/",
         "disabled": true
     },
     {
         "title": "Contact",
-        "url": "/contact",
+        "url": "/contact/",
         "disabled": true
     }
 ]
