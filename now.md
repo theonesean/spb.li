@@ -25,7 +25,7 @@ I just finished *Uncanny Valley*, Anna Weiner's brilliant outsider perspective o
  
 ## What am I listening to?
 
-The new Jayhawks record, *XOXO*. Brian Eno's ambient stuff, especially *Music for Airports*. CSNY's live stuff. Richie Havens' *Live at The Cellar Door*. *Djohariah* by Sufjan Stevens. This month's [playlist](https://open.spotify.com/playlist/3sw5LEp3pExJqjcUD2gYod?si=PDdY5SLrQHWD03FLVfiIxA). A recent [collaborative playlist](https://open.spotify.com/playlist/58gy6KTDfi6GyQx4vz0qOo?si=Z2KptBmISJi4oB3PafUCcg) with my friend [Emily](https://emilyeackerman.netlify.app/) focusing on super-long songs.
+The new Jayhawks record, *XOXO*. Brian Eno's ambient stuff, especially *Music for Airports*. Big Thief, a lot of Big Thief. CSNY's live stuff. Richie Havens' *Live at The Cellar Door*. *Djohariah* by Sufjan Stevens. This month's [playlist](https://open.spotify.com/playlist/3sw5LEp3pExJqjcUD2gYod?si=PDdY5SLrQHWD03FLVfiIxA). A recent [collaborative playlist](https://open.spotify.com/playlist/58gy6KTDfi6GyQx4vz0qOo?si=Z2KptBmISJi4oB3PafUCcg) with my friend [Emily](https://emilyeackerman.netlify.app/) focusing on super-long songs.
 
 ## What am I watching?
 

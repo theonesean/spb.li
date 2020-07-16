@@ -9,6 +9,8 @@ jobs:
         uses: actions/checkout@master
       - name: build
         uses: TartanLlama/actions-eleventy@v1.1
+        with:
+          install_dependencies: true
       - name: deploy
         uses: peaceiris/actions-gh-pages@v1.1.0
         env:
