@@ -8,9 +8,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@master
       - name: build
-        uses: cagov/actions-eleventy@v1.3.1
-        with:
-          install_dependencies: true
+        run: "npm install -g @11ty/eleventy --unsafe-perm && npx @11ty/eleventy"
       - name: deploy
         uses: peaceiris/actions-gh-pages@v1.1.0
         env:
