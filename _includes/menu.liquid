@@ -1,5 +1,0 @@
-<ul class="{{ prefix }}-menu {% if classes %}{{ classes }}{% endif %}">
-    {% for i in data %}
-        <li class="{% if i.url == page.url %}active{% endif %}{% if i.disabled %} disabled{% endif %}">{% unless i.url == page.url %}<a href="{{ i.url }}">{% endunless %}{{ i.title }}{% unless i.url == page.url %}</a>{% endunless %}</li>
-    {% endfor %}
-</ul>
