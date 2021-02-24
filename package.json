@@ -1,0 +1,22 @@
+{
+  "name": "@theonesean/spb.li",
+  "version": "1.0.0",
+  "description": "My personal site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theonesean/spb.li.git"
+  },
+  "author": "Sean Bailey",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/theonesean/spb.li/issues"
+  },
+  "homepage": "https://github.com/theonesean/spb.li#readme",
+  "dependencies": {
+    "gatsby": "^2.32.4"
+  }
+}
