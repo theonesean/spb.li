@@ -18,11 +18,14 @@
   "homepage": "https://github.com/theonesean/spb.li#readme",
   "dependencies": {
     "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.1.5",
     "emotion": "^11.0.0",
     "gatsby": "^2.32.4",
     "gatsby-plugin-emotion": "^5.4.0",
     "gatsby-plugin-web-font-loader": "^1.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "twin.macro": "^2.2.3"
   },
   "devDependencies": {
