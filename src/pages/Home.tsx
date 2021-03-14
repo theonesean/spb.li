@@ -6,7 +6,7 @@ import Sidebar from "../components/Sidebar";
 const Home = (): JSX.Element => {
   return (
     <div
-      tw="h-screen w-screen pl-4 pt-4"
+      tw="h-screen w-screen pl-4"
       css={css`
         display: grid;
         column-gap: 0.5rem;
