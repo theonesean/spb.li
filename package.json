@@ -20,12 +20,14 @@
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.1.5",
+    "@tailwindcss/aspect-ratio": "^0.2.0",
     "emotion": "^11.0.0",
     "gatsby": "^2.32.4",
     "gatsby-plugin-emotion": "^5.4.0",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "tailwindcss": "^2.0.3",
     "twin.macro": "^2.2.3"
   },
   "devDependencies": {
