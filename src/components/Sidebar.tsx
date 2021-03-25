@@ -27,7 +27,7 @@ const Sidebar = (): JSX.Element => {
       </Name>
       <div>
         <Row>is a developer,</Row>
-        <Row>teacher,</Row>
+        <Row>educator,</Row>
         <Row>data scientist,</Row>
         <Row>musician,</Row>
         <Row>and creative</Row>

@@ -21,7 +21,7 @@ const Home = (): JSX.Element => {
       <div
         tw="uppercase tracking-tighter font-bold bg-red-500 text-white col-start-2 col-end-6 mb-2"
         css={css`
-          font-size: 10vw;
+          font-size: 9vw;
           line-height: 9vw;
         `}
       >
