@@ -49,10 +49,10 @@ const Home = (): JSX.Element => {
           muted
           loop
           playsInline
-          poster="https://image.mux.com/wGO1l75BB67qX7pgwyi8ZRiuLFgbKB02ssI00E8vggS024/thumbnail.png"
+          poster="https://image.mux.com/aEzojlZOfiWM4ZpsomKfYqhzxoaoHC006bSUFnyf8Dlo/thumbnail.png"
         >
           <source
-            src="https://stream.mux.com/wGO1l75BB67qX7pgwyi8ZRiuLFgbKB02ssI00E8vggS024/high.mp4"
+            src="https://stream.mux.com/aEzojlZOfiWM4ZpsomKfYqhzxoaoHC006bSUFnyf8Dlo/high.mp4"
             type="video/mp4"
           />
         </video>
