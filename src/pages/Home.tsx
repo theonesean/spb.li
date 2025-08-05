@@ -43,7 +43,7 @@ const Home = (): JSX.Element => {
         {/* section 5 */}
       </div>
 
-      <div tw="col-start-5 col-end-10 row-start-3 row-end-4 aspect-w-4 aspect-h-3 mt-2">
+      <div tw="col-start-5 col-end-10 row-start-3 row-end-4 aspect-w-3 aspect-h-4 mt-2">
         <video
           autoPlay
           muted
