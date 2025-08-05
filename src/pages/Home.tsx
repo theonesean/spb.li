@@ -52,8 +52,8 @@ const Home = (): JSX.Element => {
           poster="https://image.mux.com/aEzojlZOfiWM4ZpsomKfYqhzxoaoHC006bSUFnyf8Dlo/thumbnail.png"
         >
           <source
-            src="https://stream.mux.com/aEzojlZOfiWM4ZpsomKfYqhzxoaoHC006bSUFnyf8Dlo/high.mp4"
-            type="video/mp4"
+            src="https://stream.mux.com/aEzojlZOfiWM4ZpsomKfYqhzxoaoHC006bSUFnyf8Dlo.m3u8"
+            type="application/x-mpegURL"
           />
         </video>
       </div>
