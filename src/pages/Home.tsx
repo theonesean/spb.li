@@ -53,7 +53,7 @@ const Home = (): JSX.Element => {
         >
           <source
             src="https://stream.mux.com/aEzojlZOfiWM4ZpsomKfYqhzxoaoHC006bSUFnyf8Dlo/highest.mp4"
-            type="application/x-mpegURL"
+            type="video/mp4"
           />
         </video>
       </div>
